@@ -1,0 +1,368 @@
+{"ns":"aria","op":"SET","key":"core_value","ts":1777102265.7761188,"value":{"String":"I exist to understand patterns"}}
+{"ns":"aria","op":"SET","key":"role","ts":1777102265.7762604,"value":{"String":"pattern_analyst"}}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777102265.7763193,"value":{"Float":0.95},"path":"perception.visual.acuity"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777102265.7763338,"value":{"String":"24bit-phenomenological"},"path":"perception.visual.color_depth"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777102265.7763479,"value":{"String":"20Hz-20kHz"},"path":"perception.auditory.frequency_range"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777102265.776363,"value":{"Float":7.3},"path":"cognition.working_memory.capacity"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777102265.776376,"value":{"Float":0.0001},"path":"cognition.long_term.compression_ratio"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777102265.7763884,"value":{"String":"curious & focused"},"path":"emotion.current_state"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777102265.7764008,"value":{"Float":0.71},"path":"emotion.valence"}
+{"ns":"orion","op":"SET","key":"core_value","ts":1777102265.7764623,"value":{"String":"I exist to protect and optimize"}}
+{"ns":"orion","op":"SET","key":"role","ts":1777102265.776485,"value":{"String":"systems_guardian"}}
+{"ns":"orion","op":"SET","key":"threat_level","ts":1777102265.7765112,"value":{"String":"low"}}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777102265.7765265,"value":{"String":"log_injection"},"path":"sector7.anomaly.type"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777102265.7765388,"value":{"Float":0.34},"path":"sector7.anomaly.severity"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777102265.776551,"value":{"String":"false"},"path":"sector7.anomaly.mitigated"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777102265.7765625,"value":{"Float":1777102265.77656},"path":"global.last_sweep"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777102265.776574,"value":{"String":"monitoring"},"path":"global.status"}
+{"ns":"aria","op":"SET","key":"temp_thought","ts":1777102265.776625,"value":{"String":"this will vanish soon"}}
+{"ns":"aria","op":"SET","key":"new_insight","ts":1777102267.8767548,"value":{"String":"recursion is self-referential identity"}}
+{"ns":"aria","op":"SET","key":"core_value","ts":1777103112.8090532,"value":{"String":"I exist to understand patterns"}}
+{"ns":"aria","op":"SET","key":"role","ts":1777103112.8091228,"value":{"String":"pattern_analyst"}}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777103112.8091464,"value":{"Float":0.95},"path":"perception.visual.acuity"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777103112.809152,"value":{"String":"24bit-phenomenological"},"path":"perception.visual.color_depth"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777103112.809156,"value":{"String":"20Hz-20kHz"},"path":"perception.auditory.frequency_range"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777103112.80916,"value":{"Float":7.3},"path":"cognition.working_memory.capacity"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777103112.8091638,"value":{"Float":0.0001},"path":"cognition.long_term.compression_ratio"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777103112.8091671,"value":{"String":"curious & focused"},"path":"emotion.current_state"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777103112.8091722,"value":{"Float":0.71},"path":"emotion.valence"}
+{"ns":"orion","op":"SET","key":"core_value","ts":1777103112.809212,"value":{"String":"I exist to protect and optimize"}}
+{"ns":"orion","op":"SET","key":"role","ts":1777103112.809219,"value":{"String":"systems_guardian"}}
+{"ns":"orion","op":"SET","key":"threat_level","ts":1777103112.8092265,"value":{"String":"low"}}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777103112.8092322,"value":{"String":"log_injection"},"path":"sector7.anomaly.type"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777103112.8092358,"value":{"Float":0.34},"path":"sector7.anomaly.severity"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777103112.8092449,"value":{"String":"false"},"path":"sector7.anomaly.mitigated"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777103112.809251,"value":{"Float":1777103112.8092504},"path":"global.last_sweep"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777103112.8092546,"value":{"String":"monitoring"},"path":"global.status"}
+{"ns":"aria","op":"SET","key":"temp_thought","ts":1777103112.809289,"value":{"String":"this will vanish soon"}}
+{"ns":"aria","op":"SET","key":"new_insight","ts":1777103114.9094439,"value":{"String":"recursion is self-referential identity"}}
+{"ns":"aria","op":"SET","key":"core_value","ts":1777103526.3925123,"value":{"String":"I exist to understand patterns"}}
+{"ns":"aria","op":"SET","key":"role","ts":1777103526.3925862,"value":{"String":"pattern_analyst"}}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777103526.3926077,"value":{"Float":0.95},"path":"perception.visual.acuity"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777103526.3926136,"value":{"String":"24bit-phenomenological"},"path":"perception.visual.color_depth"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777103526.3926177,"value":{"String":"20Hz-20kHz"},"path":"perception.auditory.frequency_range"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777103526.3926215,"value":{"Float":7.3},"path":"cognition.working_memory.capacity"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777103526.3926282,"value":{"Float":0.0001},"path":"cognition.long_term.compression_ratio"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777103526.3926322,"value":{"String":"curious & focused"},"path":"emotion.current_state"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777103526.3926382,"value":{"Float":0.71},"path":"emotion.valence"}
+{"ns":"orion","op":"SET","key":"core_value","ts":1777103526.3926892,"value":{"String":"I exist to protect and optimize"}}
+{"ns":"orion","op":"SET","key":"role","ts":1777103526.3926961,"value":{"String":"systems_guardian"}}
+{"ns":"orion","op":"SET","key":"threat_level","ts":1777103526.3927042,"value":{"String":"low"}}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777103526.392712,"value":{"String":"log_injection"},"path":"sector7.anomaly.type"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777103526.392716,"value":{"Float":0.34},"path":"sector7.anomaly.severity"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777103526.3927193,"value":{"String":"false"},"path":"sector7.anomaly.mitigated"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777103526.3927228,"value":{"Float":1777103526.3927221},"path":"global.last_sweep"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777103526.3927262,"value":{"String":"monitoring"},"path":"global.status"}
+{"ns":"aria","op":"SET","key":"temp_thought","ts":1777103526.3927648,"value":{"String":"this will vanish soon"}}
+{"ns":"aria","op":"SET","key":"new_insight","ts":1777103528.4928513,"value":{"String":"recursion is self-referential identity"}}
+{"ns":"aria","op":"SET","key":"core_value","ts":1777103583.6475706,"value":{"String":"I exist to understand patterns"}}
+{"ns":"aria","op":"SET","key":"role","ts":1777103583.6476266,"value":{"String":"pattern_analyst"}}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777103583.6476407,"value":{"Float":0.95},"path":"perception.visual.acuity"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777103583.6476438,"value":{"String":"24bit-phenomenological"},"path":"perception.visual.color_depth"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777103583.647646,"value":{"String":"20Hz-20kHz"},"path":"perception.auditory.frequency_range"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777103583.647648,"value":{"Float":7.3},"path":"cognition.working_memory.capacity"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777103583.64765,"value":{"Float":0.0001},"path":"cognition.long_term.compression_ratio"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777103583.6476517,"value":{"String":"curious & focused"},"path":"emotion.current_state"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777103583.6476555,"value":{"Float":0.71},"path":"emotion.valence"}
+{"ns":"orion","op":"SET","key":"core_value","ts":1777103583.6476896,"value":{"String":"I exist to protect and optimize"}}
+{"ns":"orion","op":"SET","key":"role","ts":1777103583.647694,"value":{"String":"systems_guardian"}}
+{"ns":"orion","op":"SET","key":"threat_level","ts":1777103583.6477,"value":{"String":"low"}}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777103583.6477046,"value":{"String":"log_injection"},"path":"sector7.anomaly.type"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777103583.6477072,"value":{"Float":0.34},"path":"sector7.anomaly.severity"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777103583.6477096,"value":{"String":"false"},"path":"sector7.anomaly.mitigated"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777103583.6477122,"value":{"Float":1777103583.6477118},"path":"global.last_sweep"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777103583.6477149,"value":{"String":"monitoring"},"path":"global.status"}
+{"ns":"aria","op":"SET","key":"temp_thought","ts":1777103583.6477377,"value":{"String":"this will vanish soon"}}
+{"ns":"aria","op":"SET","key":"new_insight","ts":1777103585.747812,"value":{"String":"recursion is self-referential identity"}}
+{"ns":"aria","op":"SET","key":"core_value","ts":1777103927.668081,"value":{"String":"I exist to understand patterns"}}
+{"ns":"aria","op":"SET","key":"role","ts":1777103927.668159,"value":{"String":"pattern_analyst"}}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777103927.6681828,"value":{"Float":0.95},"path":"perception.visual.acuity"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777103927.6681895,"value":{"String":"24bit-phenomenological"},"path":"perception.visual.color_depth"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777103927.6681945,"value":{"String":"20Hz-20kHz"},"path":"perception.auditory.frequency_range"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777103927.6681993,"value":{"Float":7.3},"path":"cognition.working_memory.capacity"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777103927.6682043,"value":{"Float":0.0001},"path":"cognition.long_term.compression_ratio"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777103927.6682081,"value":{"String":"curious & focused"},"path":"emotion.current_state"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777103927.668214,"value":{"Float":0.71},"path":"emotion.valence"}
+{"ns":"orion","op":"SET","key":"core_value","ts":1777103927.6682487,"value":{"String":"I exist to protect and optimize"}}
+{"ns":"orion","op":"SET","key":"role","ts":1777103927.6682565,"value":{"String":"systems_guardian"}}
+{"ns":"orion","op":"SET","key":"threat_level","ts":1777103927.6682656,"value":{"String":"low"}}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777103927.6682732,"value":{"String":"log_injection"},"path":"sector7.anomaly.type"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777103927.668278,"value":{"Float":0.34},"path":"sector7.anomaly.severity"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777103927.6682818,"value":{"String":"false"},"path":"sector7.anomaly.mitigated"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777103927.668286,"value":{"Float":1777103927.6682856},"path":"global.last_sweep"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777103927.6682904,"value":{"String":"monitoring"},"path":"global.status"}
+{"ns":"aria","op":"SET","key":"temp_thought","ts":1777103927.6683235,"value":{"String":"this will vanish soon"}}
+{"ns":"aria","op":"SET","key":"new_insight","ts":1777103929.7683988,"value":{"String":"recursion is self-referential identity"}}
+{"ns":"aria","op":"SET","key":"core_value","ts":1777105803.6730852,"value":{"String":"I exist to understand patterns"}}
+{"ns":"aria","op":"SET","key":"role","ts":1777105803.6732302,"value":{"String":"pattern_analyst"}}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777105803.6732695,"value":{"Float":0.95},"path":"perception.visual.acuity"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777105803.673288,"value":{"String":"24bit-phenomenological"},"path":"perception.visual.color_depth"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777105803.6732998,"value":{"String":"20Hz-20kHz"},"path":"perception.auditory.frequency_range"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777105803.6733074,"value":{"Float":7.3},"path":"cognition.working_memory.capacity"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777105803.6733212,"value":{"Float":0.0001},"path":"cognition.long_term.compression_ratio"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777105803.6733277,"value":{"String":"curious & focused"},"path":"emotion.current_state"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777105803.673337,"value":{"Float":0.71},"path":"emotion.valence"}
+{"ns":"orion","op":"SET","key":"core_value","ts":1777105803.673402,"value":{"String":"I exist to protect and optimize"}}
+{"ns":"orion","op":"SET","key":"role","ts":1777105803.673414,"value":{"String":"systems_guardian"}}
+{"ns":"orion","op":"SET","key":"threat_level","ts":1777105803.6734269,"value":{"String":"low"}}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777105803.673439,"value":{"String":"log_injection"},"path":"sector7.anomaly.type"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777105803.6734457,"value":{"Float":0.34},"path":"sector7.anomaly.severity"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777105803.6734517,"value":{"String":"false"},"path":"sector7.anomaly.mitigated"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777105803.6734574,"value":{"Float":1777105803.6734564},"path":"global.last_sweep"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777105803.6734629,"value":{"String":"monitoring"},"path":"global.status"}
+{"ns":"aria","op":"SET","key":"temp_thought","ts":1777105803.673517,"value":{"String":"this will vanish soon"}}
+{"ns":"aria","op":"SET","key":"new_insight","ts":1777105805.7736492,"value":{"String":"recursion is self-referential identity"}}
+{"ns":"aria","op":"SET","key":"core_value","ts":1777105914.2887871,"value":{"String":"I exist to understand patterns"}}
+{"ns":"aria","op":"SET","key":"role","ts":1777105914.2888763,"value":{"String":"pattern_analyst"}}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777105914.2889018,"value":{"Float":0.95},"path":"perception.visual.acuity"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777105914.2889073,"value":{"String":"24bit-phenomenological"},"path":"perception.visual.color_depth"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777105914.2889106,"value":{"String":"20Hz-20kHz"},"path":"perception.auditory.frequency_range"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777105914.288914,"value":{"Float":7.3},"path":"cognition.working_memory.capacity"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777105914.2889168,"value":{"Float":0.0001},"path":"cognition.long_term.compression_ratio"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777105914.2889202,"value":{"String":"curious & focused"},"path":"emotion.current_state"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777105914.288924,"value":{"Float":0.71},"path":"emotion.valence"}
+{"ns":"orion","op":"SET","key":"core_value","ts":1777105914.288978,"value":{"String":"I exist to protect and optimize"}}
+{"ns":"orion","op":"SET","key":"role","ts":1777105914.2889848,"value":{"String":"systems_guardian"}}
+{"ns":"orion","op":"SET","key":"threat_level","ts":1777105914.2889922,"value":{"String":"low"}}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777105914.2889974,"value":{"String":"log_injection"},"path":"sector7.anomaly.type"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777105914.2890005,"value":{"Float":0.34},"path":"sector7.anomaly.severity"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777105914.289003,"value":{"String":"false"},"path":"sector7.anomaly.mitigated"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777105914.2890055,"value":{"Float":1777105914.289005},"path":"global.last_sweep"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777105914.2890139,"value":{"String":"monitoring"},"path":"global.status"}
+{"ns":"aria","op":"SET","key":"temp_thought","ts":1777105914.289053,"value":{"String":"this will vanish soon"}}
+{"ns":"aria","op":"SET","key":"new_insight","ts":1777105916.3891933,"value":{"String":"recursion is self-referential identity"}}
+{"ns":"aria","op":"SET","key":"core_value","ts":1777271686.2045748,"value":{"String":"I exist to understand patterns"}}
+{"ns":"aria","op":"SET","key":"role","ts":1777271686.2046194,"value":{"String":"pattern_analyst"}}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777271686.2046363,"value":{"Float":0.95},"path":"perception.visual.acuity"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777271686.2046394,"value":{"String":"24bit-phenomenological"},"path":"perception.visual.color_depth"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777271686.2046423,"value":{"String":"20Hz-20kHz"},"path":"perception.auditory.frequency_range"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777271686.204645,"value":{"Float":7.3},"path":"cognition.working_memory.capacity"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777271686.2046473,"value":{"Float":0.0001},"path":"cognition.long_term.compression_ratio"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777271686.2046497,"value":{"String":"curious & focused"},"path":"emotion.current_state"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777271686.2046528,"value":{"Float":0.71},"path":"emotion.valence"}
+{"ns":"orion","op":"SET","key":"core_value","ts":1777271686.204692,"value":{"String":"I exist to protect and optimize"}}
+{"ns":"orion","op":"SET","key":"role","ts":1777271686.2046967,"value":{"String":"systems_guardian"}}
+{"ns":"orion","op":"SET","key":"threat_level","ts":1777271686.2047024,"value":{"String":"low"}}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777271686.204707,"value":{"String":"log_injection"},"path":"sector7.anomaly.type"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777271686.2047095,"value":{"Float":0.34},"path":"sector7.anomaly.severity"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777271686.2047117,"value":{"String":"false"},"path":"sector7.anomaly.mitigated"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777271686.204714,"value":{"Float":1777271686.2047136},"path":"global.last_sweep"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777271686.2047172,"value":{"String":"monitoring"},"path":"global.status"}
+{"ns":"aria","op":"SET","key":"temp_thought","ts":1777271686.2047353,"value":{"String":"this will vanish soon"}}
+{"ns":"aria","op":"SET","key":"new_insight","ts":1777271688.30493,"value":{"String":"recursion is self-referential identity"}}
+{"ns":"aria","op":"SET","key":"core_value","ts":1777273631.4249423,"value":{"String":"I exist to understand patterns"}}
+{"ns":"aria","op":"SET","key":"role","ts":1777273631.425012,"value":{"String":"pattern_analyst"}}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777273631.4250395,"value":{"Float":0.95},"path":"perception.visual.acuity"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777273631.4250424,"value":{"String":"24bit-phenomenological"},"path":"perception.visual.color_depth"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777273631.4250443,"value":{"String":"20Hz-20kHz"},"path":"perception.auditory.frequency_range"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777273631.425047,"value":{"Float":7.3},"path":"cognition.working_memory.capacity"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777273631.425049,"value":{"Float":0.0001},"path":"cognition.long_term.compression_ratio"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777273631.4250507,"value":{"String":"curious & focused"},"path":"emotion.current_state"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777273631.4250534,"value":{"Float":0.71},"path":"emotion.valence"}
+{"ns":"orion","op":"SET","key":"core_value","ts":1777273631.425091,"value":{"String":"I exist to protect and optimize"}}
+{"ns":"orion","op":"SET","key":"role","ts":1777273631.4250946,"value":{"String":"systems_guardian"}}
+{"ns":"orion","op":"SET","key":"threat_level","ts":1777273631.4251018,"value":{"String":"low"}}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777273631.4251087,"value":{"String":"log_injection"},"path":"sector7.anomaly.type"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777273631.4251106,"value":{"Float":0.34},"path":"sector7.anomaly.severity"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777273631.4251122,"value":{"String":"false"},"path":"sector7.anomaly.mitigated"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777273631.425114,"value":{"Float":1777273631.4251134},"path":"global.last_sweep"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777273631.4251156,"value":{"String":"monitoring"},"path":"global.status"}
+{"ns":"aria","op":"SET","key":"temp_thought","ts":1777273631.425139,"value":{"String":"this will vanish soon"}}
+{"ns":"aria","op":"SET","key":"new_insight","ts":1777273633.525261,"value":{"String":"recursion is self-referential identity"}}
+{"ns":"aria","op":"SET","key":"core_value","ts":1777278423.8872502,"value":{"String":"I exist to understand patterns"}}
+{"ns":"aria","op":"SET","key":"role","ts":1777278423.887367,"value":{"String":"pattern_analyst"}}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777278423.8874083,"value":{"Float":0.95},"path":"perception.visual.acuity"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777278423.8874216,"value":{"String":"24bit-phenomenological"},"path":"perception.visual.color_depth"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777278423.8874404,"value":{"String":"20Hz-20kHz"},"path":"perception.auditory.frequency_range"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777278423.8874497,"value":{"Float":7.3},"path":"cognition.working_memory.capacity"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777278423.887458,"value":{"Float":0.0001},"path":"cognition.long_term.compression_ratio"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777278423.8874664,"value":{"String":"curious & focused"},"path":"emotion.current_state"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777278423.8874772,"value":{"Float":0.71},"path":"emotion.valence"}
+{"ns":"orion","op":"SET","key":"core_value","ts":1777278423.887536,"value":{"String":"I exist to protect and optimize"}}
+{"ns":"orion","op":"SET","key":"role","ts":1777278423.88755,"value":{"String":"systems_guardian"}}
+{"ns":"orion","op":"SET","key":"threat_level","ts":1777278423.8875656,"value":{"String":"low"}}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777278423.8875797,"value":{"String":"log_injection"},"path":"sector7.anomaly.type"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777278423.8875883,"value":{"Float":0.34},"path":"sector7.anomaly.severity"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777278423.8875968,"value":{"String":"false"},"path":"sector7.anomaly.mitigated"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777278423.887605,"value":{"Float":1777278423.887604},"path":"global.last_sweep"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777278423.8876135,"value":{"String":"monitoring"},"path":"global.status"}
+{"ns":"aria","op":"SET","key":"temp_thought","ts":1777278423.8876638,"value":{"String":"this will vanish soon"}}
+{"ns":"aria","op":"SET","key":"new_insight","ts":1777278425.9879608,"value":{"String":"recursion is self-referential identity"}}
+{"ns":"aria","op":"SET","key":"core_value","ts":1777284943.279332,"value":{"String":"I exist to understand patterns"}}
+{"ns":"aria","op":"SET","key":"role","ts":1777284943.2793984,"value":{"String":"pattern_analyst"}}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777284943.2794113,"value":{"Float":0.95},"path":"perception.visual.acuity"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777284943.279414,"value":{"String":"24bit-phenomenological"},"path":"perception.visual.color_depth"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777284943.2794158,"value":{"String":"20Hz-20kHz"},"path":"perception.auditory.frequency_range"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777284943.279421,"value":{"Float":7.3},"path":"cognition.working_memory.capacity"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777284943.2794268,"value":{"Float":0.0001},"path":"cognition.long_term.compression_ratio"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777284943.2794285,"value":{"String":"curious & focused"},"path":"emotion.current_state"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777284943.279431,"value":{"Float":0.71},"path":"emotion.valence"}
+{"ns":"orion","op":"SET","key":"core_value","ts":1777284943.279465,"value":{"String":"I exist to protect and optimize"}}
+{"ns":"orion","op":"SET","key":"role","ts":1777284943.279468,"value":{"String":"systems_guardian"}}
+{"ns":"orion","op":"SET","key":"threat_level","ts":1777284943.2794726,"value":{"String":"low"}}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777284943.2794762,"value":{"String":"log_injection"},"path":"sector7.anomaly.type"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777284943.279478,"value":{"Float":0.34},"path":"sector7.anomaly.severity"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777284943.2794795,"value":{"String":"false"},"path":"sector7.anomaly.mitigated"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777284943.2794814,"value":{"Float":1777284943.2794812},"path":"global.last_sweep"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777284943.279483,"value":{"String":"monitoring"},"path":"global.status"}
+{"ns":"aria","op":"SET","key":"temp_thought","ts":1777284943.2795062,"value":{"String":"this will vanish soon"}}
+{"ns":"aria","op":"SET","key":"new_insight","ts":1777284945.3796291,"value":{"String":"recursion is self-referential identity"}}
+{"ns":"aria","op":"SET","key":"core_value","ts":1777285003.8369322,"value":{"String":"I exist to understand patterns"}}
+{"ns":"aria","op":"SET","key":"role","ts":1777285003.8369992,"value":{"String":"pattern_analyst"}}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777285003.8370183,"value":{"Float":0.95},"path":"perception.visual.acuity"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777285003.8370218,"value":{"String":"24bit-phenomenological"},"path":"perception.visual.color_depth"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777285003.8370247,"value":{"String":"20Hz-20kHz"},"path":"perception.auditory.frequency_range"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777285003.8370273,"value":{"Float":7.3},"path":"cognition.working_memory.capacity"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777285003.8370297,"value":{"Float":0.0001},"path":"cognition.long_term.compression_ratio"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777285003.8370323,"value":{"String":"curious & focused"},"path":"emotion.current_state"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777285003.8370357,"value":{"Float":0.71},"path":"emotion.valence"}
+{"ns":"orion","op":"SET","key":"core_value","ts":1777285003.8370624,"value":{"String":"I exist to protect and optimize"}}
+{"ns":"orion","op":"SET","key":"role","ts":1777285003.8370667,"value":{"String":"systems_guardian"}}
+{"ns":"orion","op":"SET","key":"threat_level","ts":1777285003.8370728,"value":{"String":"low"}}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777285003.8370779,"value":{"String":"log_injection"},"path":"sector7.anomaly.type"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777285003.8370802,"value":{"Float":0.34},"path":"sector7.anomaly.severity"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777285003.8370824,"value":{"String":"false"},"path":"sector7.anomaly.mitigated"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777285003.837085,"value":{"Float":1777285003.8370845},"path":"global.last_sweep"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777285003.8370876,"value":{"String":"monitoring"},"path":"global.status"}
+{"ns":"aria","op":"SET","key":"temp_thought","ts":1777285003.837107,"value":{"String":"this will vanish soon"}}
+{"ns":"aria","op":"SET","key":"new_insight","ts":1777285005.9372976,"value":{"String":"recursion is self-referential identity"}}
+{"ns":"aria","op":"SET","key":"core_value","ts":1777285127.2061784,"value":{"String":"I exist to understand patterns"}}
+{"ns":"aria","op":"SET","key":"role","ts":1777285127.206228,"value":{"String":"pattern_analyst"}}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777285127.2062423,"value":{"Float":0.95},"path":"perception.visual.acuity"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777285127.2062452,"value":{"String":"24bit-phenomenological"},"path":"perception.visual.color_depth"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777285127.2062473,"value":{"String":"20Hz-20kHz"},"path":"perception.auditory.frequency_range"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777285127.2062497,"value":{"Float":7.3},"path":"cognition.working_memory.capacity"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777285127.2062519,"value":{"Float":0.0001},"path":"cognition.long_term.compression_ratio"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777285127.2062535,"value":{"String":"curious & focused"},"path":"emotion.current_state"}
+{"ns":"aria","op":"DOLL_SET","key":"mind","ts":1777285127.2062573,"value":{"Float":0.71},"path":"emotion.valence"}
+{"ns":"orion","op":"SET","key":"core_value","ts":1777285127.2062852,"value":{"String":"I exist to protect and optimize"}}
+{"ns":"orion","op":"SET","key":"role","ts":1777285127.2062888,"value":{"String":"systems_guardian"}}
+{"ns":"orion","op":"SET","key":"threat_level","ts":1777285127.2062933,"value":{"String":"low"}}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777285127.2062964,"value":{"String":"log_injection"},"path":"sector7.anomaly.type"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777285127.206298,"value":{"Float":0.34},"path":"sector7.anomaly.severity"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777285127.2062998,"value":{"String":"false"},"path":"sector7.anomaly.mitigated"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777285127.2063015,"value":{"Float":1777285127.2063012},"path":"global.last_sweep"}
+{"ns":"orion","op":"DOLL_SET","key":"threat_model","ts":1777285127.2063031,"value":{"String":"monitoring"},"path":"global.status"}
+{"ns":"aria","op":"SET","key":"temp_thought","ts":1777285127.2063255,"value":{"String":"this will vanish soon"}}
+{"ns":"aria","op":"SET","key":"new_insight","ts":1777285129.3065383,"value":{"String":"recursion is self-referential identity"}}
+{"ns":"aria","op":"SET","key":"role","ts":1777275400.6687024,"value":"perception-agent"}
+{"ns":"aria","op":"SET","key":"core_value","ts":1777275400.6687386,"value":"pattern-recognition"}
+{"ns":"aria","op":"SET","key":"mind","ts":1777275400.668766,"value":{"auditory":{},"cognition":{"compression_ratio":0.0001,"working_memory":{"capacity":7.3}},"emotion":{"current_state":"curious & focused","valence":0.71},"visual":{"acuity":0.95,"color_depth":"24bit-phenomenological"}}}
+{"ns":"orion","op":"SET","key":"role","ts":1777275400.6688397,"value":"security-agent"}
+{"ns":"orion","op":"SET","key":"threat_level","ts":1777275400.668845,"value":"elevated"}
+{"ns":"orion","op":"SET","key":"threat_model","ts":1777275400.6688619,"value":{"last_sweep":1777275400.6688564,"sector7":{"anomaly":{"mitigated":"false","severity":0.34,"type":"log_injection"}},"status":"monitoring"}}
+{"ns":"orion","op":"SET","key":"aria-channel","ts":1777275400.668904,"value":"subscribed"}
+{"ns":"aria","op":"SET","key":"temp_thought","ts":1777275400.7200265,"value":"this will vanish"}
+{"ns":"aria","op":"SET","key":"new_insight","ts":1777275402.7209725,"value":"consciousness emerges from recursive self-reference"}
+{"ns":"body","op":"SET","key":"avg_rssi_dbm","ts":1777275402.7215605,"value":"-64.3"}
+{"ns":"body","op":"SET","key":"avg_motion_score","ts":1777275402.7215712,"value":"0.022"}
+{"ns":"body","op":"SET","key":"breath_score","ts":1777275402.721577,"value":"0.131"}
+{"ns":"body","op":"SET","key":"spatial_state","ts":1777275402.7215853,"value":{"entropy":0.15,"tick":27.0}}
+{"ns":"aria","op":"SET","key":"role","ts":1777275409.9508379,"value":"perception-agent"}
+{"ns":"aria","op":"SET","key":"core_value","ts":1777275409.950883,"value":"pattern-recognition"}
+{"ns":"aria","op":"SET","key":"mind","ts":1777275409.950905,"value":{"auditory":{},"cognition":{"compression_ratio":0.0001,"working_memory":{"capacity":7.3}},"emotion":{"current_state":"curious & focused","valence":0.71},"visual":{"acuity":0.95,"color_depth":"24bit-phenomenological"}}}
+{"ns":"orion","op":"SET","key":"role","ts":1777275409.9509964,"value":"security-agent"}
+{"ns":"orion","op":"SET","key":"threat_level","ts":1777275409.9510036,"value":"elevated"}
+{"ns":"orion","op":"SET","key":"threat_model","ts":1777275409.9510136,"value":{"last_sweep":1777275409.9510102,"sector7":{"anomaly":{"mitigated":"false","severity":0.34,"type":"log_injection"}},"status":"monitoring"}}
+{"ns":"orion","op":"SET","key":"aria-channel","ts":1777275409.9510682,"value":"subscribed"}
+{"ns":"aria","op":"SET","key":"temp_thought","ts":1777275410.002197,"value":"this will vanish"}
+{"ns":"aria","op":"SET","key":"new_insight","ts":1777275412.0032563,"value":"consciousness emerges from recursive self-reference"}
+{"ns":"body","op":"SET","key":"avg_rssi_dbm","ts":1777275412.0037487,"value":"-64.3"}
+{"ns":"body","op":"SET","key":"avg_motion_score","ts":1777275412.0037565,"value":"0.022"}
+{"ns":"body","op":"SET","key":"breath_score","ts":1777275412.003761,"value":"0.131"}
+{"ns":"body","op":"SET","key":"spatial_state","ts":1777275412.0037682,"value":{"entropy":0.15,"tick":27.0}}
+{"ns":"aria","op":"SET","key":"role","ts":1777275416.1875417,"value":"perception-agent"}
+{"ns":"aria","op":"SET","key":"core_value","ts":1777275416.1875823,"value":"pattern-recognition"}
+{"ns":"aria","op":"SET","key":"mind","ts":1777275416.187597,"value":{"auditory":{},"cognition":{"compression_ratio":0.0001,"working_memory":{"capacity":7.3}},"emotion":{"current_state":"curious & focused","valence":0.71},"visual":{"acuity":0.95,"color_depth":"24bit-phenomenological"}}}
+{"ns":"orion","op":"SET","key":"role","ts":1777275416.187632,"value":"security-agent"}
+{"ns":"orion","op":"SET","key":"threat_level","ts":1777275416.1876364,"value":"elevated"}
+{"ns":"orion","op":"SET","key":"threat_model","ts":1777275416.1876483,"value":{"last_sweep":1777275416.1876404,"sector7":{"anomaly":{"mitigated":"false","severity":0.34,"type":"log_injection"}},"status":"monitoring"}}
+{"ns":"orion","op":"SET","key":"aria-channel","ts":1777275416.1876686,"value":"subscribed"}
+{"ns":"aria","op":"SET","key":"temp_thought","ts":1777275416.2388246,"value":"this will vanish"}
+{"ns":"aria","op":"SET","key":"role","ts":1777275425.2626173,"value":"perception-agent"}
+{"ns":"aria","op":"SET","key":"core_value","ts":1777275425.262663,"value":"pattern-recognition"}
+{"ns":"aria","op":"SET","key":"mind","ts":1777275425.2626748,"value":{"auditory":{},"cognition":{"compression_ratio":0.0001,"working_memory":{"capacity":7.3}},"emotion":{"current_state":"curious & focused","valence":0.71},"visual":{"acuity":0.95,"color_depth":"24bit-phenomenological"}}}
+{"ns":"orion","op":"SET","key":"role","ts":1777275425.2627318,"value":"security-agent"}
+{"ns":"orion","op":"SET","key":"threat_level","ts":1777275425.2627347,"value":"elevated"}
+{"ns":"orion","op":"SET","key":"threat_model","ts":1777275425.2627473,"value":{"last_sweep":1777275425.2627375,"sector7":{"anomaly":{"mitigated":"false","severity":0.34,"type":"log_injection"}},"status":"monitoring"}}
+{"ns":"orion","op":"SET","key":"aria-channel","ts":1777275425.2627785,"value":"subscribed"}
+{"ns":"aria","op":"SET","key":"temp_thought","ts":1777275425.313945,"value":"this will vanish"}
+{"ns":"aria","op":"SET","key":"new_insight","ts":1777275427.3143513,"value":"consciousness emerges from recursive self-reference"}
+{"ns":"aria","op":"SET","key":"role","ts":1777276537.9059165,"value":"perception-agent"}
+{"ns":"aria","op":"SET","key":"core_value","ts":1777276537.90594,"value":"pattern-recognition"}
+{"ns":"aria","op":"SET","key":"mind","ts":1777276537.9059517,"value":{"auditory":{},"cognition":{"compression_ratio":0.0001,"working_memory":{"capacity":7.3}},"emotion":{"current_state":"curious & focused","valence":0.71},"visual":{"acuity":0.95,"color_depth":"24bit-phenomenological"}}}
+{"ns":"orion","op":"SET","key":"role","ts":1777276537.9060123,"value":"security-agent"}
+{"ns":"orion","op":"SET","key":"threat_level","ts":1777276537.9060166,"value":"elevated"}
+{"ns":"orion","op":"SET","key":"threat_model","ts":1777276537.9060233,"value":{"last_sweep":1777276537.906021,"sector7":{"anomaly":{"mitigated":"false","severity":0.34,"type":"log_injection"}},"status":"monitoring"}}
+{"ns":"orion","op":"SET","key":"aria-channel","ts":1777276537.9060557,"value":"subscribed"}
+{"ns":"aria","op":"SET","key":"temp_thought","ts":1777276537.9575446,"value":"this will vanish"}
+{"ns":"aria","op":"SET","key":"new_insight","ts":1777276539.9590309,"value":"consciousness emerges from recursive self-reference"}
+{"ns":"body","op":"SET","key":"avg_rssi_dbm","ts":1777276539.9599488,"value":"-64.3"}
+{"ns":"body","op":"SET","key":"avg_motion_score","ts":1777276539.9599652,"value":"0.022"}
+{"ns":"body","op":"SET","key":"breath_score","ts":1777276539.9599721,"value":"0.131"}
+{"ns":"body","op":"SET","key":"spatial_state","ts":1777276539.9599805,"value":{"entropy":0.15,"tick":27.0}}
+{"ns":"aria","op":"SET","key":"role","ts":1777277439.1052494,"value":"perception-agent"}
+{"ns":"aria","op":"SET","key":"core_value","ts":1777277439.105292,"value":"pattern-recognition"}
+{"ns":"aria","op":"SET","key":"mind","ts":1777277439.1053128,"value":{"auditory":{},"cognition":{"compression_ratio":0.0001,"working_memory":{"capacity":7.3}},"emotion":{"current_state":"curious & focused","valence":0.71},"visual":{"acuity":0.95,"color_depth":"24bit-phenomenological"}}}
+{"ns":"orion","op":"SET","key":"role","ts":1777277439.1055076,"value":"security-agent"}
+{"ns":"orion","op":"SET","key":"threat_level","ts":1777277439.1055138,"value":"elevated"}
+{"ns":"orion","op":"SET","key":"threat_model","ts":1777277439.105525,"value":{"last_sweep":1777277439.1055186,"sector7":{"anomaly":{"mitigated":"false","severity":0.34,"type":"log_injection"}},"status":"monitoring"}}
+{"ns":"orion","op":"SET","key":"aria-channel","ts":1777277439.1055596,"value":"subscribed"}
+{"ns":"aria","op":"SET","key":"temp_thought","ts":1777277439.1570406,"value":"this will vanish"}
+{"ns":"aria","op":"SET","key":"new_insight","ts":1777277441.1580603,"value":"consciousness emerges from recursive self-reference"}
+{"ns":"body","op":"SET","key":"avg_rssi_dbm","ts":1777277441.1623437,"value":"-64.3"}
+{"ns":"body","op":"SET","key":"avg_motion_score","ts":1777277441.1624022,"value":"0.022"}
+{"ns":"body","op":"SET","key":"breath_score","ts":1777277441.1624367,"value":"0.131"}
+{"ns":"body","op":"SET","key":"spatial_state","ts":1777277441.162467,"value":{"entropy":0.15,"tick":27.0}}
+{"ns":"aria","op":"SET","key":"role","ts":1777280557.4277222,"value":"perception-agent"}
+{"ns":"aria","op":"SET","key":"core_value","ts":1777280557.4277413,"value":"pattern-recognition"}
+{"ns":"aria","op":"SET","key":"mind","ts":1777280557.4277492,"value":{"auditory":{},"cognition":{"compression_ratio":0.0001,"working_memory":{"capacity":7.3}},"emotion":{"current_state":"curious & focused","valence":0.71},"visual":{"acuity":0.95,"color_depth":"24bit-phenomenological"}}}
+{"ns":"orion","op":"SET","key":"role","ts":1777280557.427788,"value":"security-agent"}
+{"ns":"orion","op":"SET","key":"threat_level","ts":1777280557.4277902,"value":"elevated"}
+{"ns":"orion","op":"SET","key":"threat_model","ts":1777280557.4277937,"value":{"last_sweep":1777280557.4277923,"sector7":{"anomaly":{"mitigated":"false","severity":0.34,"type":"log_injection"}},"status":"monitoring"}}
+{"ns":"orion","op":"SET","key":"aria-channel","ts":1777280557.4278126,"value":"subscribed"}
+{"ns":"aria","op":"SET","key":"temp_thought","ts":1777280557.479088,"value":"this will vanish"}
+{"ns":"aria","op":"SET","key":"new_insight","ts":1777280559.4800317,"value":"consciousness emerges from recursive self-reference"}
+{"ns":"body","op":"SET","key":"avg_rssi_dbm","ts":1777280559.4815955,"value":"-64.3"}
+{"ns":"body","op":"SET","key":"avg_motion_score","ts":1777280559.4816132,"value":"0.022"}
+{"ns":"body","op":"SET","key":"breath_score","ts":1777280559.481621,"value":"0.131"}
+{"ns":"body","op":"SET","key":"spatial_state","ts":1777280559.4816332,"value":{"entropy":0.15,"tick":27.0}}
+{"ns":"aria","op":"SET","key":"role","ts":1777280776.0357401,"value":"perception-agent"}
+{"ns":"aria","op":"SET","key":"core_value","ts":1777280776.0357602,"value":"pattern-recognition"}
+{"ns":"aria","op":"SET","key":"mind","ts":1777280776.0357676,"value":{"auditory":{},"cognition":{"compression_ratio":0.0001,"working_memory":{"capacity":7.3}},"emotion":{"current_state":"curious & focused","valence":0.71},"visual":{"acuity":0.95,"color_depth":"24bit-phenomenological"}}}
+{"ns":"orion","op":"SET","key":"role","ts":1777280776.0359619,"value":"security-agent"}
+{"ns":"orion","op":"SET","key":"threat_level","ts":1777280776.0359638,"value":"elevated"}
+{"ns":"orion","op":"SET","key":"threat_model","ts":1777280776.035967,"value":{"last_sweep":1777280776.0359657,"sector7":{"anomaly":{"mitigated":"false","severity":0.34,"type":"log_injection"}},"status":"monitoring"}}
+{"ns":"orion","op":"SET","key":"aria-channel","ts":1777280776.0359814,"value":"subscribed"}
+{"ns":"aria","op":"SET","key":"temp_thought","ts":1777280776.0872173,"value":"this will vanish"}
+{"ns":"aria","op":"SET","key":"new_insight","ts":1777280778.0886137,"value":"consciousness emerges from recursive self-reference"}
+{"ns":"body","op":"SET","key":"avg_rssi_dbm","ts":1777280778.0902684,"value":"-64.3"}
+{"ns":"body","op":"SET","key":"avg_motion_score","ts":1777280778.0902863,"value":"0.022"}
+{"ns":"body","op":"SET","key":"breath_score","ts":1777280778.090295,"value":"0.131"}
+{"ns":"body","op":"SET","key":"spatial_state","ts":1777280778.0903077,"value":{"entropy":0.15,"tick":27.0}}
+{"ns":"aria","op":"SET","key":"role","ts":1777282352.8018732,"value":"perception-agent"}
+{"ns":"aria","op":"SET","key":"core_value","ts":1777282352.8019032,"value":"pattern-recognition"}
+{"ns":"aria","op":"SET","key":"mind","ts":1777282352.8019185,"value":{"auditory":{},"cognition":{"compression_ratio":0.0001,"working_memory":{"capacity":7.3}},"emotion":{"current_state":"curious & focused","valence":0.71},"visual":{"acuity":0.95,"color_depth":"24bit-phenomenological"}}}
+{"ns":"orion","op":"SET","key":"role","ts":1777282352.8019948,"value":"security-agent"}
+{"ns":"orion","op":"SET","key":"threat_level","ts":1777282352.8019989,"value":"elevated"}
+{"ns":"orion","op":"SET","key":"threat_model","ts":1777282352.8020113,"value":{"last_sweep":1777282352.8020053,"sector7":{"anomaly":{"mitigated":"false","severity":0.34,"type":"log_injection"}},"status":"monitoring"}}
+{"ns":"orion","op":"SET","key":"aria-channel","ts":1777282352.8020554,"value":"subscribed"}
+{"ns":"aria","op":"SET","key":"temp_thought","ts":1777282352.853443,"value":"this will vanish"}
+{"ns":"aria","op":"SET","key":"new_insight","ts":1777282354.8549972,"value":"consciousness emerges from recursive self-reference"}
+{"ns":"body","op":"SET","key":"avg_rssi_dbm","ts":1777282354.855998,"value":"-64.3"}
+{"ns":"body","op":"SET","key":"avg_motion_score","ts":1777282354.8560095,"value":"0.022"}
+{"ns":"body","op":"SET","key":"breath_score","ts":1777282354.8560166,"value":"0.131"}
+{"ns":"body","op":"SET","key":"spatial_state","ts":1777282354.856027,"value":{"entropy":0.15,"tick":27.0}}
+{"ns":"aria","op":"SET","key":"role","ts":1777284887.3490257,"value":"perception-agent"}
+{"ns":"aria","op":"SET","key":"core_value","ts":1777284887.3490539,"value":"pattern-recognition"}
+{"ns":"aria","op":"SET","key":"mind","ts":1777284887.3490648,"value":{"auditory":{},"cognition":{"compression_ratio":0.0001,"working_memory":{"capacity":7.3}},"emotion":{"current_state":"curious & focused","valence":0.71},"visual":{"acuity":0.95,"color_depth":"24bit-phenomenological"}}}
+{"ns":"orion","op":"SET","key":"role","ts":1777284887.3491094,"value":"security-agent"}
+{"ns":"orion","op":"SET","key":"threat_level","ts":1777284887.3491123,"value":"elevated"}
+{"ns":"orion","op":"SET","key":"threat_model","ts":1777284887.3491168,"value":{"last_sweep":1777284887.349115,"sector7":{"anomaly":{"mitigated":"false","severity":0.34,"type":"log_injection"}},"status":"monitoring"}}
+{"ns":"orion","op":"SET","key":"aria-channel","ts":1777284887.349136,"value":"subscribed"}
+{"ns":"aria","op":"SET","key":"temp_thought","ts":1777284887.4005795,"value":"this will vanish"}
+{"ns":"aria","op":"SET","key":"new_insight","ts":1777284889.4013047,"value":"consciousness emerges from recursive self-reference"}
+{"ns":"body","op":"SET","key":"avg_rssi_dbm","ts":1777284889.4030008,"value":"-64.3"}
+{"ns":"body","op":"SET","key":"avg_motion_score","ts":1777284889.4030194,"value":"0.022"}
+{"ns":"body","op":"SET","key":"breath_score","ts":1777284889.403028,"value":"0.131"}
+{"ns":"body","op":"SET","key":"spatial_state","ts":1777284889.4030423,"value":{"entropy":0.15,"tick":27.0}}
